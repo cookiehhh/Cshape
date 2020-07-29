@@ -1,0 +1,7 @@
+F:\C#\Student management\stu\bin\Debug\stu.exe.config
+F:\C#\Student management\stu\bin\Debug\stu.exe
+F:\C#\Student management\stu\bin\Debug\stu.pdb
+F:\C#\Student management\stu\obj\Debug\Student management.csprojResolveAssemblyReference.cache
+F:\C#\Student management\stu\obj\Debug\Student management.csproj.CoreCompileInputs.cache
+F:\C#\Student management\stu\obj\Debug\stu.exe
+F:\C#\Student management\stu\obj\Debug\stu.pdb

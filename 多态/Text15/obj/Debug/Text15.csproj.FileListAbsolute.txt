@@ -1,0 +1,7 @@
+F:\C#\Text15\Text15\bin\Debug\Text15.exe.config
+F:\C#\Text15\Text15\bin\Debug\Text15.exe
+F:\C#\Text15\Text15\bin\Debug\Text15.pdb
+F:\C#\Text15\Text15\obj\Debug\Text15.csprojResolveAssemblyReference.cache
+F:\C#\Text15\Text15\obj\Debug\Text15.csproj.CoreCompileInputs.cache
+F:\C#\Text15\Text15\obj\Debug\Text15.exe
+F:\C#\Text15\Text15\obj\Debug\Text15.pdb

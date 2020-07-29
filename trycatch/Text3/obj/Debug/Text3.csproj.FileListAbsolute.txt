@@ -1,0 +1,7 @@
+F:\C#\Text3\Text3\bin\Debug\Text3.exe.config
+F:\C#\Text3\Text3\bin\Debug\Text3.exe
+F:\C#\Text3\Text3\bin\Debug\Text3.pdb
+F:\C#\Text3\Text3\obj\Debug\Text3.csprojResolveAssemblyReference.cache
+F:\C#\Text3\Text3\obj\Debug\Text3.csproj.CoreCompileInputs.cache
+F:\C#\Text3\Text3\obj\Debug\Text3.exe
+F:\C#\Text3\Text3\obj\Debug\Text3.pdb

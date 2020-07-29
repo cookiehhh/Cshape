@@ -1,0 +1,9 @@
+E:\C#\俄罗斯方块\俄罗斯方块\bin\Debug\俄罗斯方块.exe
+E:\C#\俄罗斯方块\俄罗斯方块\bin\Debug\俄罗斯方块.pdb
+E:\C#\俄罗斯方块\俄罗斯方块\obj\Debug\俄罗斯方块.csprojAssemblyReference.cache
+E:\C#\俄罗斯方块\俄罗斯方块\obj\Debug\俄罗斯方块.Form1.resources
+E:\C#\俄罗斯方块\俄罗斯方块\obj\Debug\俄罗斯方块.Properties.Resources.resources
+E:\C#\俄罗斯方块\俄罗斯方块\obj\Debug\俄罗斯方块.csproj.GenerateResource.cache
+E:\C#\俄罗斯方块\俄罗斯方块\obj\Debug\俄罗斯方块.csproj.CoreCompileInputs.cache
+E:\C#\俄罗斯方块\俄罗斯方块\obj\Debug\俄罗斯方块.exe
+E:\C#\俄罗斯方块\俄罗斯方块\obj\Debug\俄罗斯方块.pdb

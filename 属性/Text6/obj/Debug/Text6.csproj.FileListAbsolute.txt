@@ -1,0 +1,7 @@
+F:\C#\Text6\Text6\bin\Debug\Text6.exe.config
+F:\C#\Text6\Text6\bin\Debug\Text6.exe
+F:\C#\Text6\Text6\bin\Debug\Text6.pdb
+F:\C#\Text6\Text6\obj\Debug\Text6.csprojResolveAssemblyReference.cache
+F:\C#\Text6\Text6\obj\Debug\Text6.csproj.CoreCompileInputs.cache
+F:\C#\Text6\Text6\obj\Debug\Text6.exe
+F:\C#\Text6\Text6\obj\Debug\Text6.pdb

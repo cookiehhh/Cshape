@@ -1,0 +1,7 @@
+F:\C#\Text13\Text13\bin\Debug\Text13.exe.config
+F:\C#\Text13\Text13\bin\Debug\Text13.exe
+F:\C#\Text13\Text13\bin\Debug\Text13.pdb
+F:\C#\Text13\Text13\obj\Debug\Text13.csprojResolveAssemblyReference.cache
+F:\C#\Text13\Text13\obj\Debug\Text13.csproj.CoreCompileInputs.cache
+F:\C#\Text13\Text13\obj\Debug\Text13.exe
+F:\C#\Text13\Text13\obj\Debug\Text13.pdb

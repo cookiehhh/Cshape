@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\坦克.Form1.resources
+obj\Debug\坦克.Properties.Resources.resources
+obj\Debug\坦克.csproj.GenerateResource.Cache
+bin\Debug\坦克.exe
+bin\Debug\坦克.pdb
+obj\Debug\坦克.exe
+obj\Debug\坦克.pdb

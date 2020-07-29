@@ -1,0 +1,7 @@
+F:\C#\Text2\Text2\bin\Debug\Text2.exe.config
+F:\C#\Text2\Text2\bin\Debug\Text2.exe
+F:\C#\Text2\Text2\bin\Debug\Text2.pdb
+F:\C#\Text2\Text2\obj\Debug\Text2.csprojResolveAssemblyReference.cache
+F:\C#\Text2\Text2\obj\Debug\Text2.csproj.CoreCompileInputs.cache
+F:\C#\Text2\Text2\obj\Debug\Text2.exe
+F:\C#\Text2\Text2\obj\Debug\Text2.pdb

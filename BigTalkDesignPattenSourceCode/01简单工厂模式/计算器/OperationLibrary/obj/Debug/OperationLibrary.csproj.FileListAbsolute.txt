@@ -1,0 +1,6 @@
+E:\C#\BigTalkDesignPattenSourceCode\01简单工厂模式\计算器\OperationLibrary\bin\Debug\OperationLibrary.dll
+E:\C#\BigTalkDesignPattenSourceCode\01简单工厂模式\计算器\OperationLibrary\bin\Debug\OperationLibrary.pdb
+E:\C#\BigTalkDesignPattenSourceCode\01简单工厂模式\计算器\OperationLibrary\obj\Debug\OperationLibrary.csprojAssemblyReference.cache
+E:\C#\BigTalkDesignPattenSourceCode\01简单工厂模式\计算器\OperationLibrary\obj\Debug\OperationLibrary.csproj.CoreCompileInputs.cache
+E:\C#\BigTalkDesignPattenSourceCode\01简单工厂模式\计算器\OperationLibrary\obj\Debug\OperationLibrary.dll
+E:\C#\BigTalkDesignPattenSourceCode\01简单工厂模式\计算器\OperationLibrary\obj\Debug\OperationLibrary.pdb

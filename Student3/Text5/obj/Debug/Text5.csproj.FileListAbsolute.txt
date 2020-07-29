@@ -1,0 +1,7 @@
+F:\C#\Text5\Text5\bin\Debug\Text5.exe.config
+F:\C#\Text5\Text5\bin\Debug\Text5.exe
+F:\C#\Text5\Text5\bin\Debug\Text5.pdb
+F:\C#\Text5\Text5\obj\Debug\Text5.csprojResolveAssemblyReference.cache
+F:\C#\Text5\Text5\obj\Debug\Text5.csproj.CoreCompileInputs.cache
+F:\C#\Text5\Text5\obj\Debug\Text5.exe
+F:\C#\Text5\Text5\obj\Debug\Text5.pdb

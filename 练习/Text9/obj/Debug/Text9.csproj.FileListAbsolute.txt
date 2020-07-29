@@ -1,0 +1,14 @@
+F:\C#\Text9\Text9\bin\Debug\Text9.exe.config
+F:\C#\Text9\Text9\bin\Debug\Text9.exe
+F:\C#\Text9\Text9\bin\Debug\Text9.pdb
+F:\C#\Text9\Text9\obj\Debug\Text9.csprojResolveAssemblyReference.cache
+F:\C#\Text9\Text9\obj\Debug\Text9.csproj.CoreCompileInputs.cache
+F:\C#\Text9\Text9\obj\Debug\Text9.exe
+F:\C#\Text9\Text9\obj\Debug\Text9.pdb
+F:\C#\练习\Text9\bin\Debug\Text9.exe.config
+F:\C#\练习\Text9\bin\Debug\Text9.exe
+F:\C#\练习\Text9\bin\Debug\Text9.pdb
+F:\C#\练习\Text9\obj\Debug\Text9.csprojResolveAssemblyReference.cache
+F:\C#\练习\Text9\obj\Debug\Text9.csproj.CoreCompileInputs.cache
+F:\C#\练习\Text9\obj\Debug\Text9.exe
+F:\C#\练习\Text9\obj\Debug\Text9.pdb

@@ -1,0 +1,7 @@
+F:\C#\Text10\Text10\bin\Debug\Text10.exe.config
+F:\C#\Text10\Text10\bin\Debug\Text10.exe
+F:\C#\Text10\Text10\bin\Debug\Text10.pdb
+F:\C#\Text10\Text10\obj\Debug\Text10.csprojResolveAssemblyReference.cache
+F:\C#\Text10\Text10\obj\Debug\Text10.csproj.CoreCompileInputs.cache
+F:\C#\Text10\Text10\obj\Debug\Text10.exe
+F:\C#\Text10\Text10\obj\Debug\Text10.pdb

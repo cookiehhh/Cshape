@@ -1,0 +1,7 @@
+F:\C#\stu\stu\obj\Debug\stu.csprojResolveAssemblyReference.cache
+F:\C#\stu\stu\obj\Debug\stu.csproj.CoreCompileInputs.cache
+F:\C#\stu\stu\bin\Debug\stu.exe.config
+F:\C#\stu\stu\bin\Debug\stu.exe
+F:\C#\stu\stu\bin\Debug\stu.pdb
+F:\C#\stu\stu\obj\Debug\stu.exe
+F:\C#\stu\stu\obj\Debug\stu.pdb

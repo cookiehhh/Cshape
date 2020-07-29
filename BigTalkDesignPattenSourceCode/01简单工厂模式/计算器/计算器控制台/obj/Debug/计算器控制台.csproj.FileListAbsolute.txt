@@ -1,0 +1,9 @@
+E:\C#\BigTalkDesignPattenSourceCode\01简单工厂模式\计算器\计算器控制台\bin\Debug\计算器控制台.exe
+E:\C#\BigTalkDesignPattenSourceCode\01简单工厂模式\计算器\计算器控制台\bin\Debug\计算器控制台.pdb
+E:\C#\BigTalkDesignPattenSourceCode\01简单工厂模式\计算器\计算器控制台\bin\Debug\OperationLibrary.dll
+E:\C#\BigTalkDesignPattenSourceCode\01简单工厂模式\计算器\计算器控制台\bin\Debug\OperationLibrary.pdb
+E:\C#\BigTalkDesignPattenSourceCode\01简单工厂模式\计算器\计算器控制台\obj\Debug\计算器控制台.csprojAssemblyReference.cache
+E:\C#\BigTalkDesignPattenSourceCode\01简单工厂模式\计算器\计算器控制台\obj\Debug\计算器控制台.csproj.CoreCompileInputs.cache
+E:\C#\BigTalkDesignPattenSourceCode\01简单工厂模式\计算器\计算器控制台\obj\Debug\计算器控制台.csproj.CopyComplete
+E:\C#\BigTalkDesignPattenSourceCode\01简单工厂模式\计算器\计算器控制台\obj\Debug\计算器控制台.exe
+E:\C#\BigTalkDesignPattenSourceCode\01简单工厂模式\计算器\计算器控制台\obj\Debug\计算器控制台.pdb

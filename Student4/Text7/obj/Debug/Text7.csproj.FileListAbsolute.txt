@@ -1,0 +1,14 @@
+F:\C#\Text7\Text7\bin\Debug\Text7.exe.config
+F:\C#\Text7\Text7\bin\Debug\Text7.exe
+F:\C#\Text7\Text7\bin\Debug\Text7.pdb
+F:\C#\Text7\Text7\obj\Debug\Text7.csproj.CoreCompileInputs.cache
+F:\C#\Text7\Text7\obj\Debug\Text7.exe
+F:\C#\Text7\Text7\obj\Debug\Text7.pdb
+F:\C#\Text7\Text7\obj\Debug\Text7.csprojResolveAssemblyReference.cache
+F:\C#\Student4\Text7\bin\Debug\Text7.exe.config
+F:\C#\Student4\Text7\bin\Debug\Text7.exe
+F:\C#\Student4\Text7\bin\Debug\Text7.pdb
+F:\C#\Student4\Text7\obj\Debug\Text7.csprojResolveAssemblyReference.cache
+F:\C#\Student4\Text7\obj\Debug\Text7.csproj.CoreCompileInputs.cache
+F:\C#\Student4\Text7\obj\Debug\Text7.exe
+F:\C#\Student4\Text7\obj\Debug\Text7.pdb

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="宋体" Size="10" />
+  <Class Name="坦克.Tank">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Tank.cs</FileName>
+      <HashCode>AAACAAAAAAAAAgQAQAAAAAgAAAAJAIAAHQAgCAAAAgA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="坦克.PlaySound">
+    <Position X="4.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>PlaySound.cs</FileName>
+      <HashCode>AAAAEABAAAAAAAAAAAAAAIAAEAAAAAAAgAAAgAIAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="坦克.bullet">
+    <Position X="2.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>bullet.cs</FileName>
+      <HashCode>AAACAAAAAAAAAgSAQAAAAAgAAAAZAAAACAAAAAAAAgA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+</ClassDiagram>

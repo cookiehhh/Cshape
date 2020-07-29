@@ -1,0 +1,10 @@
+F:\C#\Text12\Text12\bin\Debug\Text12.exe.config
+F:\C#\Text12\Text12\bin\Debug\Text12.exe
+F:\C#\Text12\Text12\bin\Debug\Text12.pdb
+F:\C#\Text12\Text12\obj\Debug\Text12.csprojResolveAssemblyReference.cache
+F:\C#\Text12\Text12\obj\Debug\Text12.Form1.resources
+F:\C#\Text12\Text12\obj\Debug\Text12.Properties.Resources.resources
+F:\C#\Text12\Text12\obj\Debug\Text12.csproj.GenerateResource.Cache
+F:\C#\Text12\Text12\obj\Debug\Text12.csproj.CoreCompileInputs.cache
+F:\C#\Text12\Text12\obj\Debug\Text12.exe
+F:\C#\Text12\Text12\obj\Debug\Text12.pdb

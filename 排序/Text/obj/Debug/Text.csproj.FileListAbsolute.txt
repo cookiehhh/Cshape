@@ -1,0 +1,7 @@
+F:\C#\Text\Text\bin\Debug\Text.exe.config
+F:\C#\Text\Text\bin\Debug\Text.exe
+F:\C#\Text\Text\bin\Debug\Text.pdb
+F:\C#\Text\Text\obj\Debug\Text.csprojResolveAssemblyReference.cache
+F:\C#\Text\Text\obj\Debug\Text.csproj.CoreCompileInputs.cache
+F:\C#\Text\Text\obj\Debug\Text.exe
+F:\C#\Text\Text\obj\Debug\Text.pdb

@@ -1,0 +1,10 @@
+C:\Documents and Settings\Administrator\桌面\第二篇  控制类游戏\坦克游戏\obj\Debug\坦克.exe
+C:\Documents and Settings\Administrator\桌面\第二篇  控制类游戏\坦克游戏\obj\Debug\坦克.pdb
+C:\Documents and Settings\Administrator\桌面\第二篇  控制类游戏\坦克游戏\bin\Debug\坦克.exe
+C:\Documents and Settings\Administrator\桌面\第二篇  控制类游戏\坦克游戏\bin\Debug\坦克.pdb
+C:\Documents and Settings\Administrator\桌面\第二篇  控制类游戏\坦克游戏\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\第二篇  控制类游戏\坦克游戏\obj\Debug\坦克.Form1.resources
+C:\Documents and Settings\Administrator\桌面\第二篇  控制类游戏\坦克游戏\obj\Debug\坦克.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\第二篇  控制类游戏\坦克游戏\obj\Debug\坦克.csproj.GenerateResource.Cache
+G:\坦克大战\obj\Debug\坦克.exe
+G:\坦克大战\obj\Debug\坦克.pdb
